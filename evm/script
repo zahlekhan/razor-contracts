@@ -1,0 +1,1 @@
+geth --preload ./autoMine.js --port 3010 --datadir ./master --networkid 298 --http --http.port 7410 --http.api eth,net,web3,personal,miner --allow-insecure-unlock console 2>>eth.log
