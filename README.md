@@ -1,5 +1,5 @@
 # Razor Contracts
-This a Proof of Concept SDK built over top of Razorpay SDK for FTX2020. Businesses interact with each on the basis of agreements. If these agreements are converted into protocols, businesses can automate processes much more efficiently. The protocol allows us to separate agreement logic and the interaction logic.
+This a Proof of Concept SDK built over top of Razorpay SDK for FTX2020. Businesses interact with each other on the basis of agreements. If these agreements are converted into protocols, businesses can automate processes much more efficiently. The protocol allows us to separate agreement logic and the interaction logic.
 
 
 # Example Use case
